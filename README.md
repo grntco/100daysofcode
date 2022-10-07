@@ -7,3 +7,5 @@ On days where I don't commit to one of my own repos, I will log what I did on ea
 Day 10: Completed 08_calculator exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
 
 Day 11: Solved 09_palindromes exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
+
+Day 12: Solved 10_fibonacci exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
