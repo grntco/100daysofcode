@@ -9,3 +9,5 @@ Day 10: Completed 08_calculator exercise as part of the Javascript Exercises for
 Day 11: Solved 09_palindromes exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
 
 Day 12: Solved 10_fibonacci exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
+
+Day 13: Solved 11_getTheTitles exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
