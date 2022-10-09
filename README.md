@@ -11,3 +11,5 @@ Day 11: Solved 09_palindromes exercise as part of the Javascript Exercises for t
 Day 12: Solved 10_fibonacci exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
 
 Day 13: Solved 11_getTheTitles exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
+
+Day 14: Solved 12_findTheOldest exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
