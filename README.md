@@ -15,3 +15,7 @@ Day 13: Solved 11_getTheTitles exercise as part of the Javascript Exercises for 
 Day 14: Solved 12_findTheOldest exercise as part of the Javascript Exercises for the Odin Project Fundamentals course.
 
 Day 30: Continued building personal website. Switched navigation from the top to the side as a sidebar. Made a new branch and pushed commits, but they weren't showing up on my contribution calendar, so I'm logging my work here to get that sweet green bubble for today.
+
+Day 49: Missed committing today! There goes my streak. I did code, just not in VS Code. I worked through freeCodeCamp's JavaScript Algorithms and Data Structures course.
+
+Day 50: Wrote yesterday's message. Continued workign through freeCodeCamp's JavaScript Algorithms and Data Structures course. Learning about regexes.
