@@ -23,3 +23,5 @@ Day 50: Wrote yesterday's message. Continued workign through freeCodeCamp's Java
 Day 51: Continued working through freeCodeCamp's JavaScript Algorithms and Data Structures course. Completed course on regexes and started the course on debugging.
 
 Day 52: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Finished the section on debugging and started the next on basic data structures. Reviewing array methods.
+
+Day 53: Coding through the JS Algorithms and Data Structures course from freeCodeCamp. Finished section on basic data structures and started the one on basic algorithm scripting. Got some good review of objects. 
