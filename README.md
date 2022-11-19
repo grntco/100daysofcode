@@ -25,3 +25,5 @@ Day 51: Continued working through freeCodeCamp's JavaScript Algorithms and Data 
 Day 52: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Finished the section on debugging and started the next on basic data structures. Reviewing array methods.
 
 Day 53: Coding through the JS Algorithms and Data Structures course from freeCodeCamp. Finished section on basic data structures and started the one on basic algorithm scripting. Got some good review of objects. 
+
+Day 54: Coded through the JS Algorithms and Data Structures course exercises for the section on basic algorithm scripting from freeCodeCamp.   
