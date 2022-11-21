@@ -29,3 +29,5 @@ Day 53: Coding through the JS Algorithms and Data Structures course from freeCod
 Day 54: Coded through the JS Algorithms and Data Structures course exercises for the section on basic algorithm scripting from freeCodeCamp.   
 
 Day 55: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Continued section on basic algorithm scripting. Completing similar exercises to some in The Odin Project Foundations course. Good review.
+
+Day 56: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Continued section on basic algorithm scripting. 75% complete with section.
