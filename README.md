@@ -35,3 +35,5 @@ Day 56: Coded through the JS Algorithms and Data Structures course from freeCode
 Day 57: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Continued section on basic algorithm scripting. 94% complete with section.
 
 Day 58: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Finished section on basic algorithm scripting and got halfway (64%) through the section on object oriented programming. 
+
+Day 59: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Finished section on object oriented programming and started new section on functional programming.
