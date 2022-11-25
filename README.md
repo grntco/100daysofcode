@@ -38,4 +38,6 @@ Day 58: Coded through the JS Algorithms and Data Structures course from freeCode
 
 Day 59: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Finished section on object oriented programming and started new section on functional programming.
 
-Day 60: Coded through the JS Alogorithms and Data Strucutres course from freeCodeCamp. Continued section on fucntional programming. Happy Thanksgiving.
+Day 60: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Continued section on functional programming. Happy Thanksgiving.
+
+Day 61: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Finished section on functional programming and started the next on intermediate algorithm scripting. 
