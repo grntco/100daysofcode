@@ -49,3 +49,5 @@ Day 63: Coded through the JS Algorithms and Data Structures course from freeCode
 Day 64: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Continued section on intermediate algorithm scripting. Two tasks complete. 7/21 tasks done.
 
 Day 65: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Continued section on intermediate algorithm scripting. Two tasks complete. 9/21 tasks done.
+
+Day 66: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Continued section on intermediate algorithm scripting. Two tasks complete. 11/21 tasks done.
