@@ -58,4 +58,6 @@ Day 68: Coded through the JS Algorithms and Data Structures course from freeCode
 
 Day 69: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Continued section on intermediate algorithm scripting. Three tasks complete. 18/21 tasks done.
 
-day 70: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Finished section on intermediate algorithm scripting! Two tasks complete. 21/21 tasks done.
+Day 70: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Finished section on intermediate algorithm scripting! Two tasks complete. 21/21 tasks done.
+
+Day 71: Coded through the JS Algorithms and Data Structures course from freeCodeCamp. Completed two of the end-of-course projects, palindromes and roman numeral converter. 3 more to go.
