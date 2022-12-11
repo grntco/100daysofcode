@@ -70,3 +70,5 @@ Day 74: Coding through the JS Algorithms and Data Structures course from freeCod
 
 Day 75: Coding through the JS Algorithms and Data Structures course from freeCodeCamp. Continued project on the cash register.
 
+Day 76: Finished coding through the JS Algorithms and Data Structures course from freeCodeCamp. Finished project on the cash register and finished the course!
+
