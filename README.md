@@ -72,3 +72,5 @@ Day 75: Coding through the JS Algorithms and Data Structures course from freeCod
 
 Day 76: Finished coding through the JS Algorithms and Data Structures course from freeCodeCamp. Finished project on the cash register and finished the course!
 
+Day 77: Started the Odin Project path on Full Stack JS, starting with the course on Intermediate HTML and CSS. Reviewed all the HTML elements and a CSS cheat sheet. Also, began learning Emmet shortcuts for VS Code.
+
