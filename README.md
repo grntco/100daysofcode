@@ -74,3 +74,5 @@ Day 76: Finished coding through the JS Algorithms and Data Structures course fro
 
 Day 77: Started the Odin Project path on Full Stack JS, starting with the course on Intermediate HTML and CSS. Reviewed all the HTML elements and a CSS cheat sheet. Also, began learning Emmet shortcuts for VS Code.
 
+Day 78: Learning through the Intermediate HTML and CSS course from The Odin Project. Read over Emmet abbreviations and completed the lesson on SVGs. 
+
