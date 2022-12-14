@@ -76,3 +76,4 @@ Day 77: Started the Odin Project path on Full Stack JS, starting with the course
 
 Day 78: Learning through the Intermediate HTML and CSS course from The Odin Project. Read over Emmet abbreviations and completed the lesson on SVGs. 
 
+Day 79: Learning through the Intermediate HTML and CSS course from The Odin Project. Completed lesson on HTML tables, reading and coding along with MDN articles. 
