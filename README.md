@@ -79,3 +79,5 @@ Day 78: Learning through the Intermediate HTML and CSS course from The Odin Proj
 Day 79: Learning through the Intermediate HTML and CSS course from The Odin Project. Completed lesson on HTML tables, reading and coding along with MDN articles. 
 
 Day 80: Learning through the Intermediate HTML and CSS course from The Odin Project. Learned about HTML default styles, CSS resets, and CSS units. 
+
+Day 81: Learning through the Intermediate HTML and CSS course from The Odin Project. Learned about more text styles and CSS properties. Getting a better grasp of what I can do with these languages, and which prop/values to use in CSS.
