@@ -83,3 +83,5 @@ Day 80: Learning through the Intermediate HTML and CSS course from The Odin Proj
 Day 81: Learning through the Intermediate HTML and CSS course from The Odin Project. Learned about more text styles and CSS properties. Getting a better grasp of what I can do with these languages, and which prop/values to use in CSS.
 
 Day 82: Learning through the Intermediate HTML and CSS course from The Odin Project. Learned about advanced selectors in CSS, such as pseudo-classes and pseudo-elements. Also completed CSS Diner which was a fun little task.
+
+Day 83: Learning through the Intermediate HTML and CSS course from The Odin Project. Completed the lessons on positioning and CSS Functions, learning about calc(), min(), max(), and clamp().
