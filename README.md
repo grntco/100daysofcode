@@ -89,3 +89,5 @@ Day 83: Learning through the Intermediate HTML and CSS course from The Odin Proj
 Day 84: Learning through the Intermediate HTML and CSS course from The Odin Project. Completed the lessons on custom CSS properties and browser compatibility. Learned about CSS variables and some of the history of browsers, from the WWW browser to Netscape Navigator to Chrome.
 
 Day 85: Learning through the Intermediate HTML and CSS course from The Odin Project. Completed the lesson on frameworks and preprocessors. Read about Bootstrap, Tailwind, Foundation, Material, and maybe another one. Bootstrap and Tailwind definitely have my attention. Also read about Sass, Less, and Stylus. Sass seems helpful. 
+
+Day 86: Watched some videos on Tailwind CSS. Super cool, but not sure I'm ready to take on a project with it yet. Continued learning through the Intermediate HTML and CSS course from The Odin Project. Read about HTML forms. Coded and followed along with some MDN docs.
