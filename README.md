@@ -94,4 +94,6 @@ Day 86: Watched some videos on Tailwind CSS. Super cool, but not sure I'm ready 
 
 Day 87: Continued reading the MDN docs on HTML forms for the Odin Project's course on Intermediate HTML and CSS. Learned about the different input types, basic form controls, and form structure.
 
-Day 88: Continued reading the MDN docs on HTML forms for the Odin Project's course on Intermediate HTML and CSS. Learned about the difficulties in styling form elements across browsers, and tricks to get around some of these challenges. 
+Day 88: Continued reading the MDN docs on HTML forms for the Odin Project's course on Intermediate HTML and CSS. Learned about the difficulties in styling form elements across browsers, and tricks to get around some of these challenges.
+
+Day 89: Continued the Intermediate HTML and CSS course from The Odin Project. Finished the lesson on form basics.
