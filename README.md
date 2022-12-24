@@ -97,3 +97,5 @@ Day 87: Continued reading the MDN docs on HTML forms for the Odin Project's cour
 Day 88: Continued reading the MDN docs on HTML forms for the Odin Project's course on Intermediate HTML and CSS. Learned about the difficulties in styling form elements across browsers, and tricks to get around some of these challenges.
 
 Day 89: Continued the Intermediate HTML and CSS course from The Odin Project. Finished the lesson on form basics.
+
+Day 90: Continued the Intermediate HTML and CSS course from The Odin Project. Completed the lesson on client-side form validation. 
