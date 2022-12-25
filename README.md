@@ -98,4 +98,6 @@ Day 88: Continued reading the MDN docs on HTML forms for the Odin Project's cour
 
 Day 89: Continued the Intermediate HTML and CSS course from The Odin Project. Finished the lesson on form basics.
 
-Day 90: Continued the Intermediate HTML and CSS course from The Odin Project. Completed the lesson on client-side form validation. 
+Day 90: Continued the Intermediate HTML and CSS course from The Odin Project. Completed the lesson on client-side form validation.
+
+Day 91: Continued the Intermediate HTML and CSS course from The Odin Project. Started the Sign-Up Form project. Set up my github, html, css, images, fonts, etc. Created images with Lexica.art. 
