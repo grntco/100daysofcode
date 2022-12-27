@@ -103,3 +103,5 @@ Day 90: Continued the Intermediate HTML and CSS course from The Odin Project. Co
 Day 91: Continued the Intermediate HTML and CSS course from The Odin Project. Started the Sign-Up Form project. Set up my github, html, css, images, fonts, etc. Created images with Lexica.art. 
 
 Day 92: Continued the Intermediate HTML and CSS course from The Odin Project. Worked on styling my sign-up page. Learning to work with an external font, linear gradients on text, and an svg. 
+
+Day 93: Continued the Intermediate HTML and CSS course from The Odin Project. Continued styling elements. Figuring out linear gradients on a button and how to style form elements. 
