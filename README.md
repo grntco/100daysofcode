@@ -107,3 +107,5 @@ Day 92: Continued the Intermediate HTML and CSS course from The Odin Project. Wo
 Day 93: Continued the Intermediate HTML and CSS course from The Odin Project. Continued styling elements. Figuring out linear gradients on a button and how to style form elements. 
 
 Day 94: Continued the Intermediate HTML and CSS course from The Odin Project. Basically finished the sign up form project. Worked with :focus, outline:none, and other tricks to style my form. Might validate passwords with JS, or move on to next lesson.
+
+Day 95: Continued the Intermediate HTML and CSS course from The Odin Project. Worked on a JS script to validate the passwords on my sign up form. Also added regex patterns in the HTML to match a correct format.  
