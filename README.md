@@ -113,3 +113,5 @@ Day 95: Continued the Intermediate HTML and CSS course from The Odin Project. Wo
 Day 96: Continued the Intermediate HTML and CSS course from The Odin Project. Finished my sign up form project, completing the JS script for password validation.
 
 Day 97: Continued the Intermediate HTML and CSS course from The Odin Project. Completed the first two lessons on CSS Grid—Intro to Grid and Creating a Grid.
+
+Day 98: Continued the Intermediate HTML and CSS course from The Odin Project. Completed the lesson on Positioning Grid Elements.
