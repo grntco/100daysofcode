@@ -117,3 +117,5 @@ Day 97: Continued the Intermediate HTML and CSS course from The Odin Project. Co
 Day 98: Continued the Intermediate HTML and CSS course from The Odin Project. Completed the lesson on Positioning Grid Elements.
 
 Day 99: Continued the Intermediate HTML and CSS course from The Odin Project. Completed the lesson on Advanced Grid Properties.
+
+Day 100: Continued the Intermediate HTML and CSS course from The Odin Project. Completed the lesson on Using Flexbox and Grid.
